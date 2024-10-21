@@ -2,27 +2,27 @@
     "skills": [
       {
         "id": "1",
-        "src": "./img/product-chain-1.png",
+        "src": "./img/front-end.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "I specialize in building responsive and user-friendly interfaces using modern front-end technologies. My expertise lies in HTML, CSS, JavaScript, and frameworks like React"
       },
       {
         "id": "2",
-        "src": "./img/tag-1.png",
+        "src": "./img/back-end.png",
         "title": "Back-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "With a solid foundation in server-side technologies, I develop scalable and secure back-end systems using Node.js, Express, and MongoDB. I focus on creating efficient APIs, handling complex database operations, and ensuring seamless integration between the front and back end."
       },
       {
         "id": "3",
-        "src": "./img/feather-pen-2.png",
+        "src": "./img/ui-ux.png",
         "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "I have a keen eye for user-centric design, focusing on creating intuitive and aesthetically pleasing interfaces. My approach to UI/UX design is rooted in empathy, understanding the users' needs, and delivering designs that enhance the overall experience."
       },
       {
         "id": "4",
-        "src": "./img/feather-pen-1.png",
-        "title": "Webflow Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "src": "./img/figma.png",
+        "title": "Figma",
+        "description": "As a Figma enthusiast, I utilize its collaborative design tools to craft interactive prototypes and user flows. Figma allows me to efficiently translate ideas into visual solutions while ensuring consistency in design systems."
       }
     ],
     "portfolio": [

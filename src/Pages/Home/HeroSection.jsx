@@ -3,11 +3,11 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title" style={{ color: '#B6EADA' }}>Hey, </p>
+          <p className="section--title" >Hey, </p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color" style={{ color: '#B6EADA' }}>I'm <b>Kushagra Pandey</b></span>{" "}
+            <span className="hero--section-title--color">I'm <b>Kushagra Pandey</b></span>{" "}
           </h1>
-          <p className="hero--section-description">
+          <p className="hero--section-description" style={{color:"white"}}>
             Welcome to my portfolio, <br/>here you can find my projects, passion and my experience.
           </p>
         </div>
