@@ -1,0 +1,54 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Webflow Development",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/link-magnet.png",
+        "title": "Buy-IT",
+        "description": "A full fledge Ecom website for a Clothing brand, it uses stripe as a secure payment and gateway and firebase authentication",
+        "link": "View In Github",
+        "url": "https://github.com/itzkushagra/BuyIT-Ecom"
+      },
+      {
+        "id": "2",
+        "src": "./img/link-magnet.png",
+        "title": "Link Magnet",
+        "description": "A website tailored for small business owners and content creators, allowing them track their users",
+        "link": "View In Github",
+        "url": "https://github.com/itzkushagra/link-magnet"
+      },
+      {
+        "id": "3",
+        "src": "./img/link-magnet.png",
+        "title": "myPatient",
+        "description": "A patient management application that  allows patients to easily register, book, and manage their appointments with doctors",
+        "link": "View In Github",
+        "url": "https://github.com/itzkushagra/myPatient"
+      }
+    ]
+  }
