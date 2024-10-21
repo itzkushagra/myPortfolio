@@ -67,7 +67,7 @@ p {
   background-color: var(--white);
 }
 .btn-github {
-  color: var(--white);
+  color: var(--bg-shade);
   background-color: var(--github);
   border: var(--github);
   display: flex;
@@ -78,7 +78,7 @@ p {
   gap: 16px;
 }
 .btn-github:hover {
-  color: var(--github);
+  color: var(--bg-shade);
   background-color: var(--white);
 }
 

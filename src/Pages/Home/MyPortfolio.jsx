@@ -8,7 +8,7 @@ export default function MyPortfolio() {
           <p className="sub--title" style={{fontSize:"25px"}}>Recent Projects</p>
         </div>
         <div>
-          <button className="btn btn-github">
+          <button className="btn btn-github"  onClick={() => window.location.href = 'https://github.com/itzKushagra'}>
             Visit My GitHub
           </button>
         </div>
